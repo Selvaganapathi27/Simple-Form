@@ -1,0 +1,79 @@
+body {
+    background-color: black;
+}
+#main {
+    background-color: white;
+    width: 570px;
+    padding: 15px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+form {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+}
+#last {
+    margin-left:197px;
+}
+#fname, #lname {
+    border-radius: 4px;
+    height: 35px;
+    border: 0.1px solid black;
+    width: 280px;
+}
+
+#email {
+    width: 564px;
+    border-radius: 4px;
+    height: 35px;
+    border: 0.5px solid black;
+}
+
+#ge, #sr {
+    border: 0.5px solid black;
+    padding: 5px;
+    padding: 10px 152px 10px 15px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 13px;
+
+}
+
+#msg {
+    border: 0.5px solid black;
+    border-radius: 5px;
+}
+
+button {
+    width: 564px;
+    background-color:rgb(4, 90, 18);
+    border: none;
+    color: white;
+    text-align: center;
+    padding: 5px 0px 0px 5px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+#check {
+    margin: 0px 0px 0px 10px;
+}
+#fname, #lname, #email, #msg {
+    margin: 10px 0px 0px 0px;
+}
+
+#message {
+    padding-top: 20px;
+}
+
+#consent {
+    background-color: green;
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+}
